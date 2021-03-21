@@ -1,0 +1,21 @@
+From 3ba567a1bf1d9a65940412a7e08747589a41dc98 Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Mona=20D=C3=BCnnfelder?= <duennfel@hm.edu>
+Date: Sun, 21 Mar 2021 18:00:42 +0100
+Subject: [PATCH] Changes in INSTALL
+
+---
+ INSTALL.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/INSTALL.txt b/INSTALL.txt
+index e5eb39e..b60c79a 100644
+--- a/INSTALL.txt
++++ b/INSTALL.txt
+@@ -6,3 +6,4 @@ Kommando aus:
+ Zum Deinstallieren der Haskell Plattform wird folgenden Kommando ausgeführt:
+ 
+ > apt remove haskell-platform
++ 
+-- 
+2.25.1
+
