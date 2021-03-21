@@ -6,3 +6,4 @@ Kommando aus:
 Zum Deinstallieren der Haskell Plattform wird folgenden Kommando ausgeführt:
 
 > apt remove haskell-platform
+ 
