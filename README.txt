@@ -5,4 +5,4 @@ Lizenz: ...
 Compelieren
 ===========
 
-Zum Compelieren brauchen Sie einen Haskell-Compiler.
+Zum Compelieren brauchen Sie einen Haskell-Compiler. Dieser muss der GHC sein.
